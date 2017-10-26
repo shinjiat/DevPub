@@ -1,6 +1,10 @@
 # DevPub
 I was tasked to make a forum alone (https://github.com/shinjiat/DevPub-Website/tree/master/db/forum) and also assist other members on the files in the db folder (https://github.com/shinjiat/DevPub-Website/tree/master/db) such as the editprofile.php, crewpage.php and etc.
 
+
+[forum](https://github.com/shinjiat/DevPub-Website/tree/master/db/forum)
+[folder](https://github.com/shinjiat/DevPub-Website/tree/master/db)
+
                                        ---------------------CSCI-318 Assignment---------------------
                                                       
                                                </> David Tanugrah [Backend]
