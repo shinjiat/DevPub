@@ -6,7 +6,7 @@ In this group project, I was asked to do the front-end and back-end alone: imple
 [Task Assignation](https://github.com/JDK-devpub/devpub/projects/1)
 
 __________________________________________________________________________________________________________________________________________
-##### Updated source codes were all deleted on my friend's hostinger account, I'm unable to get any screenshot from the original online hosted Website unfortunately.
+##### Updated source codes were all deleted on my [friend](https://github.com/orgs/JDK-devpub/people/buyback)'s hostinger account, I'm unable to get any screenshot from the original online hosted Website unfortunately.
 ##### I am unable to replicate how the website would look like on localhost, due to missing too many updated files, table and hard-coded data on hostinger's database.
 __________________________________________________________________________________________________________________________________________
 
